@@ -112,6 +112,7 @@ h2 {
       url(./assets/Fauzan.png);
   background-size: cover;
   background-position-x: 75%;
+  background-position-y: 25%;
   height: 100vh;
 }
 
@@ -290,10 +291,10 @@ footer p {
   }
 
   .hero-text-box {
-    margin-top: 130px;
+    margin-top: 140px;
     width: 100%;
     padding: 0 10%;
-    font-size: 80%;
+    font-size: 70%;
   }
 
   .header{
