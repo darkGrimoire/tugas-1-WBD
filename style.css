@@ -283,17 +283,26 @@ footer p {
     width: 50%;
   }
 
-  .hero-text-box {
-    width: 100%;
-    padding: 0 10%;
-    font-size: 80%;
-  }
 }
 
 @media only screen and (max-width: 1000px){
   .card-exp{
     width: 50%;
   }
+
+  .hero-text-box {
+    margin-top: 130px;
+    width: 100%;
+    padding: 0 10%;
+    font-size: 80%;
+  }
+
+  .header{
+    background-image: 
+      linear-gradient(to right top, rgb(255, 255, 255), rgba(100, 81, 81, 0)),
+      url(./assets/Fauzan.png);
+  }
+
 }
 
 /* to 1140 */
