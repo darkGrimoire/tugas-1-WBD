@@ -111,8 +111,7 @@ h2 {
   background-image: 
       url(./assets/Fauzan.png);
   background-size: cover;
-  /* background-position: 0 30%; */
-  background-position: right;
+  background-position-x: 75%;
   height: 100vh;
 }
 
