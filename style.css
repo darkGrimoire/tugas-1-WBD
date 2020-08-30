@@ -284,7 +284,7 @@ footer p {
   padding: 10px 0;
 }
 
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 520px){
   .main-nav li {
     margin-left: 5px;
     margin-right: 5px;
