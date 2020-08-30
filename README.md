@@ -2,11 +2,11 @@
 
 ## How to Run
 
-### Clone
+### File
 1. Clone/Download this repo
-2. open index.html
+2. Open index.html
 
-### link
+### Web Link
 https://mfauzanalg.github.io/tugas-1-WBD/
 
 ## Author
