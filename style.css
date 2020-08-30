@@ -1,6 +1,5 @@
-/********************************************************/
+
 /* BASIC SETUP */
-/********************************************************/
 *{
     margin: 0;
     padding: 0;
@@ -18,9 +17,8 @@ scroll-behavior: smooth;
 }
 
 
-/********************************************************/
+
 /* REUSEABLE COMPONENTS */
-/********************************************************/
 .row {
   max-width: 1140px;
   margin: 0 auto;
@@ -102,10 +100,7 @@ h2 {
 }
 
 
-
-/********************************************************/
 /* HEADER */
-/********************************************************/
 .header{
   background-color: #f4f4f4;
   background-image: 
@@ -124,9 +119,8 @@ h2 {
   transform: translate(-50%, -50%);
 }
 
-/********************************************************/
+
 /* NAVBAR */
-/********************************************************/
 .main-nav {
   float: right;
   list-style: none;
@@ -162,7 +156,7 @@ h2 {
   border-bottom: 2px solid black;
 }
 
-/* About me */
+/* ABOUT ME */
 .section-aboutme{
     margin-bottom: 50px;
 }
@@ -204,7 +198,7 @@ h2 {
   max-width: 120px;
 }
 
-/* experiences */
+/* EXPERIENCES */
 .section-experiences{
   background-color: #f4f4f4;
   padding-bottom: 70px;
@@ -273,6 +267,7 @@ h2 {
   font-family: 'Caveat', cursive;
 }
 
+/* FOOTER */
 footer{
   background-color: #D52D37;
 }
@@ -284,6 +279,8 @@ footer p {
   padding: 10px 0;
 }
 
+
+/* RESPONSIVE */
 @media only screen and (max-width: 520px){
   .main-nav li {
     margin-left: 5px;
@@ -353,7 +350,6 @@ footer p {
 
 }
 
-/* to 1140 */
 @media only screen and (max-width: 1200px){
   .hero-text-box {
     width: 100%;
