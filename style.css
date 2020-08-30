@@ -358,7 +358,7 @@ footer p {
   }
 
   .hero-text-box {
-    margin-top: 160px;
+    top: 85%;
     width: 100%;
     padding: 0 10%;
     font-size: 70%;
@@ -376,5 +376,11 @@ footer p {
   .hero-text-box {
     width: 100%;
     padding: 0 5%;
+  }
+}
+
+@media only screen and (max-height: 650px){
+  .hero-text-box {
+    top: 80%;
   }
 }
