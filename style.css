@@ -199,14 +199,11 @@ h2 {
 }
 
 .msg-container{
-  visibility: hidden;
-  opacity: 0;
-  transition: visibility 0s, opacity 0.5s linear;
+  display: none;
 }
 
 .msg-container-display{
-  visibility: visible;
-  opacity: 1;
+  display: block;
 }
 
 /* EXPERIENCES */
