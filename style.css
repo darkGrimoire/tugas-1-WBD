@@ -198,6 +198,17 @@ h2 {
   max-width: 120px;
 }
 
+.msg-container{
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+
+.msg-container-display{
+  visibility: visible;
+  opacity: 1;
+}
+
 /* EXPERIENCES */
 .section-experiences{
   background-color: #f4f4f4;
